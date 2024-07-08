@@ -1,0 +1,7 @@
+https://api.aladhan.com/v1/timingsByCity?country=EG&city=Cairo // Api Link
+https://prayer-timings.netlify.app/ // website link
+tools of this project:
+React Hooks (usestate, useEffect)
+React Material Ui
+Axios
+moment.js
